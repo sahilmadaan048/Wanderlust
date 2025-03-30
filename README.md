@@ -92,13 +92,3 @@ npm start
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## Acknowledgments 👏
-
-- Thanks to all contributors who have helped shape Wanderlust
-- Inspired by various travel platforms and community feedback
-- Special thanks to the open-source community
-
-## Contact 📧
-
-Project Link: [https://github.com/yourusername/Wanderlust](https://github.com/sahilmadaan048/Wanderlust)
